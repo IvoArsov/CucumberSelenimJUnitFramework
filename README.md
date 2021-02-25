@@ -1,1 +1,1 @@
-Full Automation Testing! Automation testing demo using Selenium Webdriver, Java, Cucumber BDD, TestNG & more!
+Full Automation Testing! Automation testing demo will use Selenium Webdriver, Java, Cucumber BDD, TestNG & more!
